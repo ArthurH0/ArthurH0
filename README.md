@@ -1,4 +1,4 @@
-### Olá, Eu sou Arthur Henrique!
+### Olá, eu sou Arthur Henrique!
 
 ##
 
