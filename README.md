@@ -4,7 +4,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- ⌨️​ Desenvolvedor de projetos e aplicações
+- ⌨️​ Desenvolvedor de projetos e aplicações | Full Stack
 - 👩‍💻 Análise e Desenvolvimento de sistemas
 - 🏙 Belo Horizonte/MG
 - <img style="width:5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
