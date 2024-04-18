@@ -4,7 +4,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 👩‍💻 Cursando o 3° período de Análise e Desenvolvimento de sistemas
+- ⌨️​ Desenvolvedor de projetos e aplicações
+- 👩‍💻 Análise e Desenvolvimento de sistemas
 - 🏙 Belo Horizonte/MG
 - <img style="width:5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             <img style="width:5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
